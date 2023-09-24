@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredfeisullin
-- 👀 I’m interested in Wireless Network Performance Data models and Event models
+- 👀 I’m interested in Wireless Network Performance Data models and Event models 
 - 🌱 I’m currently learning AI, ML
 - 💞️ I’m looking to collaborate on an adpative modeling algorithm for monitoring performance agaainst neywork configuration changes
 - 📫 How to reach me ffeisullin@gmail.com
